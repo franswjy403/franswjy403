@@ -12,7 +12,7 @@ I'm Frans Wijaya from Sepuluh Nopember Institute of Technology.
 📫 How to reach me:
 - 📘[LinkedIn](https://www.linkedin.com/in/franswijaya403/)
 - ♎[Instagram](https://www.instagram.com/frans.wjy403/)
-- 📧[Email](franswijaya403@gmail.com)
+- 📧Email: franswijaya403@gmail.com
 <!--
 **franswjy403/franswjy403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
