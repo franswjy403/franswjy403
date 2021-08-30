@@ -1,12 +1,25 @@
 ### Hi there 👋
 
+I'm Frans Wijaya from Sepuluh Nopember Institute of Technology. 
+
+🤔 I’m interested in:
+- Web development
+- Machine learning
+
+🌱 Currently learning:
+- Laravel
+
+📫 How to reach me:
+- 📘[LinkedIn](https://www.linkedin.com/in/franswijaya403/)
+- ♎[Instagram](https://www.instagram.com/frans.wjy403/)
+- 📧[Email](franswijaya403@gmail.com)
 <!--
 **franswjy403/franswjy403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,5 +27,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franswjy403&theme=dracule&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franswjy403&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franswjy403&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=franswjy403&repo=hello&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+
