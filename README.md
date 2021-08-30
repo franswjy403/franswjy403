@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franswjy403&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franswjy403&theme=dracula&show_icons=true&count_private=true)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franswjy403&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franswjy403&layout=compact&theme=dracula)]
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=franswjy403&repo=hello&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
