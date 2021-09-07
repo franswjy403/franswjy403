@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franswjy403&theme=dracula&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franswjy403&layout=compact&theme=dracula&langs_count=8)
+![Top Langs](https://github-readme-stats-frans.vercel.app/api/top-langs/?username=franswjy403&layout=compact&theme=dracula&langs_count=8)
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=franswjy403&repo=hello&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
