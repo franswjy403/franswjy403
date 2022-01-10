@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Frans' GitHub stats](https://github-readme-stats.vercel.app/api?username=franswjy403)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![Frans' GitHub stats](https://github-readme-stats-one-dun.vercel.app/api?username=franswjy403&theme=tokyonight&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats-one-dun.vercel.app/api/top-langs/?username=franswjy403&layout=compact&theme=tokyonight&langs_count=8)
