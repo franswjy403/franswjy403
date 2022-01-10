@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Frans' GitHub stats](https://github-readme-stats.vercel.app/api?username=franswjy403&theme=tokyonight&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franswjy403&langs_count=8&theme=tokyonight)
 <!-- ![Frans' GitHub stats](https://github-readme-stats-one-dun.vercel.app/api?username=franswjy403&theme=tokyonight&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-one-dun.vercel.app/api/top-langs/?username=franswjy403&layout=compact&theme=tokyonight&langs_count=8)
+
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=franswjy403&repo=hello&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) --> 
 
