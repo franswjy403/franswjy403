@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Frans Wijaya from Sepuluh Nopember Institute of Technology. 
+I'm Frans Wijaya from Institut Teknologi Sepuluh Nopember Surabaya.
 
 🤔 I’m interested in:
 - Web development
