@@ -4,11 +4,13 @@ I'm Frans Wijaya from Institut Teknologi Sepuluh Nopember Surabaya.
 
 🤔 I’m interested in:
 - Web development
-- Machine learning
 
 🌱 Currently learning:
 - Laravel
-- Python
+- NodeJS
+- Express
+- Go-Lang
+- MongoDB
 
 📫 How to reach me:
 - 📘[LinkedIn](https://www.linkedin.com/in/franswijaya403/)
