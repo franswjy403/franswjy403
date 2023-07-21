@@ -4,13 +4,7 @@ I'm Frans Wijaya from Institut Teknologi Sepuluh Nopember Surabaya.
 
 🤔 I’m interested in:
 - Web development
-
-🌱 Currently learning:
-- Laravel
-- NodeJS
-- Express
-- Go-Lang
-- MongoDB
+- Mobile Development
 
 📫 How to reach me:
 - 📘[LinkedIn](https://www.linkedin.com/in/franswijaya403/)
@@ -30,7 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Frans' GitHub stats](https://github-readme-stats.vercel.app/api?username=franswjy403&theme=tokyonight&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franswjy403&langs_count=8&theme=tokyonight)
 <!-- ![Frans' GitHub stats](https://github-readme-stats-one-dun.vercel.app/api?username=franswjy403&theme=tokyonight&show_icons=true&count_private=true)
